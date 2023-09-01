@@ -4,13 +4,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Formulario de Registro de Usuarios</title>
-    <link rel="stylesheet" type="text/css" href="estilos/estilos.css"/>
+    <title>Solicitud de credito</title>
+    <link rel="stylesheet" type="text/css" href="estilos/estilo.css"/>
 </head>
 <body>
     <form id="form1" runat="server">
         <div id="container">
-            <h3>Formulario de Registro de Crédito</h3>
+            <h3>Formulario solicitud de Crédito</h3>
             <div class="form-group">
                 <asp:TextBox ID="txt_codigo" runat="server" placeholder="ID *" required ="true"></asp:TextBox> 
             </div>
