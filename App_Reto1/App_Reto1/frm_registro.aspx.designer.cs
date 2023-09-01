@@ -33,15 +33,6 @@ namespace App_Reto1
         protected global::System.Web.UI.WebControls.TextBox txt_codigo;
 
         /// <summary>
-        /// Control TextBox1.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
-
-        /// <summary>
         /// Control txt_nombre.
         /// </summary>
         /// <remarks>
@@ -51,13 +42,13 @@ namespace App_Reto1
         protected global::System.Web.UI.WebControls.TextBox txt_nombre;
 
         /// <summary>
-        /// Control txt_apellidos.
+        /// Control txt_apellido.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_apellidos;
+        protected global::System.Web.UI.WebControls.TextBox txt_apellido;
 
         /// <summary>
         /// Control txt_contacto.
@@ -96,13 +87,13 @@ namespace App_Reto1
         protected global::System.Web.UI.WebControls.TextBox txt_salario;
 
         /// <summary>
-        /// Control txt_empresa.
+        /// Control txt_empresa_laboral.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txt_empresa;
+        protected global::System.Web.UI.WebControls.TextBox txt_empresa_laboral;
 
         /// <summary>
         /// Control txt_monto.
@@ -114,13 +105,13 @@ namespace App_Reto1
         protected global::System.Web.UI.WebControls.TextBox txt_monto;
 
         /// <summary>
-        /// Control cbx_plazoTiempo.
+        /// Control cbx_plazo.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList cbx_plazoTiempo;
+        protected global::System.Web.UI.WebControls.DropDownList cbx_plazo;
 
         /// <summary>
         /// Control btn_registrar.
@@ -139,6 +130,15 @@ namespace App_Reto1
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btn_cancelar;
+
+        /// <summary>
+        /// Control btn_consultar.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_consultar;
 
         /// <summary>
         /// Control lbl_mensaje.
